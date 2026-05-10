@@ -3,7 +3,7 @@
   "name": "Remove Blank Lines on Paste",
   "version": "1.0.0",
   "minAppVersion": "1.5.0",
-  "description": "Removes all empty lines from pasted text in Obsidian.",
+  "description": "Removes all empty lines from pasted text.",
   "author": "Krowos",
   "authorUrl":  "https://github.com/Krowos1",
   "isDesktopOnly": false
