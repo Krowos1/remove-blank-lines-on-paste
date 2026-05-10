@@ -1,5 +1,5 @@
 # Remove Blank Lines on Paste
-Remove Blank Lines on Paste is a simple Obsidian plugin that automatically removes empty lines from pasted text.
+Remove Blank Lines on Paste is a simple plugin that automatically removes empty lines from pasted text.
 
 # Why this plugin exists
 Sometimes text copied from websites, PDFs, chats, AI tools, or other editors is pasted into Obsidian with extra blank lines.
@@ -53,7 +53,7 @@ Second paragraph.
 # Installation
 
 - Download or clone this repository.
-- Copy the plugin folder into your Obsidian plugins directory:
+- Copy the plugin folder into your plugins directory:
 -YourVault/.obsidian/plugins/remove-blank-lines-on-paste/
 
 Make sure the folder contains:
